@@ -1,6 +1,6 @@
 # Experiment with the planning algorithms
-    - Yoon-gu Hwang
-    - `yz0624@gmail.com`
+- Yoon-gu Hwang
+- `yz0624@gmail.com`
 
 # Overview
 This is a report file for the planning algorithms in AI Nanodegree. In this project, I did an experiment eleven search algorithms on four problems.
